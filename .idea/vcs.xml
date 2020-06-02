@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cc-charts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/datatabs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/boxcontainer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/cc-charts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/datatable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/datatabs" vcs="Git" />
+  </component>
+</project>
